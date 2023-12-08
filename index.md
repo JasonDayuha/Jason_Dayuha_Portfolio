@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis Projects
 
-[Project 1 Title](/sample_page)
+[Bike Share Analysis by R Programing ](https://github.com/JasonDayuha/Bike_Share_v1.0_R_pgrm/blob/main/R--Bike-Share-ver1-.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
