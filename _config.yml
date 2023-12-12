@@ -1,10 +1,11 @@
 title: Jason A. Dayuha # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  With a foundation in Mechanical Engineering and a certification in Data Analytics from Google Coursera program, I have a diverse skill set in data analysis tools including Excel, R, SQLite, and Tableau. My approach is rooted in a methodical and analytical mindset, empowering me to uncover and present data-driven insights across various industries.
+ *Mechanical Engineering Degree
+ *Google Data Analytics Certification from Cursera
+ *Excel, R Programing , SQLite, and Tableau. 
   <br><br>
-  --Testing what to put in this discription. hello how are you? 
-  --<br><br>
+ 
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
