@@ -9,22 +9,16 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Bike Share Analysis by SQlite + Tableau](https://github.com/JasonDayuha/Bike_Share_v2.0_SQLite_Tableau/blob/main/SQLite---Tableau-Bike-Share-ver-1_2.html),
+[Project Repository ](https://github.com/JasonDayuha/Bike_Share_v2.0_SQLite_Tableau)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Project List
 
-### Category Name 2
+- [Bike Share Analysis by R Programming](https://JasonDayuha.github.io/Bike_Share_v1.0_R_pgrm/R--Bike-Share-ver1-.html),[Project Repository](https://github.com/JasonDayuha/Bike_Share_v1.0_R_pgrm)
+- [Bike Share Analysis by SQlite + Tableau](https://github.com/JasonDayuha/Bike_Share_v2.0_SQLite_Tableau/blob/main/SQLite---Tableau-Bike-Share-ver-1_2.html), [Project Repository ](https://github.com/JasonDayuha/Bike_Share_v2.0_SQLite_Tableau)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
