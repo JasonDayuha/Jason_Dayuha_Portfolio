@@ -5,7 +5,7 @@
 ### Data Analysis Projects
 
 
-<strong>Bike Share Analysis by R Programming</strong>(https://JasonDayuha.github.io/Bike_Share_v1.0_R_pgrm/R--Bike-Share-ver1-.html)<br>
+[<strong>Bike Share Analysis by R Programming</strong>](https://JasonDayuha.github.io/Bike_Share_v1.0_R_pgrm/R--Bike-Share-ver1-.html)<br>
 [Repository](https://github.com/JasonDayuha/Bike_Share_v1.0_R_pgrm)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
