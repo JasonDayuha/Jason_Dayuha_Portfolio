@@ -1,18 +1,15 @@
-title: Jason A. Dayuha # your name (or website title) here
-logo: "/images/logo1.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
- * Google Data Analytics Certification from Coursera  <br>
- * BS Mechanical Engineering <br>
- * Excel, R Programing, SQLite, Tableau <br>
-As a Google Data Analytics Certified professional with a Bachelors 
-degree in Mechanical Engineering, I possess a unique blend of technical 
-and analytical skills. My proficiency in Excel, R Programming, SQLite, 
-and Tableau enables me to seamlessly navigate through data, uncover insights,
-and deliver impactful visualizations.
- 
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+title: Jason A. Dayuha
+logo: "/images/logo1.png"
+description: >
+  Google Data Analytics Certification from Coursera.
+  BS Mechanical Engineering.
+  Proficient in Excel, R Programming, SQLite, and Tableau.
+
+  As a Google Data Analytics Certified professional with a Bachelor's degree in Mechanical Engineering, I possess a unique blend of technical and analytical skills. My proficiency in Excel, R Programming, SQLite, and Tableau enables me to seamlessly navigate through data, uncover insights, and deliver impactful visualizations.
   
+  View My LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/example/)
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme
+google_analytics: UA-000000-0
