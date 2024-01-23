@@ -5,20 +5,20 @@
 ### Data Analysis Projects
 
 
-[Bike Share Analysis by R Programming](https://jasondayuha.github.io/Bike_Share_Using_R_Pgrm/R-Bike Share.html), 
+[1-15-23 Cyclistic: Bike Share Program Analysis with R Programming](https://jasondayuha.github.io/Bike_Share_Using_R_Pgrm/R-Bike Share.html), 
 [Project Repository](https://github.com/JasonDayuha/Bike_Share_v1.0_R_pgrm)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Bike_ride_R_vis.jpg?raw=true"/>
 
 ---
-[Bike Share Analysis by SQLite + Tableau](https://jasondayuha.github.io/Bike_Share_Using_SQLite_Tableau/SQLite---Tableau-Bike-Share.html),  
+[4-1-2023 Cyclistic: Bike Share Program Analysis with SQLite + Tableau](https://jasondayuha.github.io/Bike_Share_Using_SQLite_Tableau/SQLite---Tableau-Bike-Share.html),  
 [Project Repository ](https://github.com/JasonDayuha/Bike_Share_v2.0_SQLite_Tableau)
 <img src="images/sql_vis.jpg?raw=true"/>
 
 
 ### Project List
 
-- [Bike Share Analysis by R Programming](https://JasonDayuha.github.io/Bike_Share_v1.0_R_pgrm/R--Bike-Share-ver1-.html),[Project Repository](https://github.com/JasonDayuha/Bike_Share_v1.0_R_pgrm)
-- [Bike Share Analysis by SQLite + Tableau](https://jasondayuha.github.io/Bike_Share_Using_SQLite_Tableau/SQLite---Tableau-Bike-Share.html), [Project Repository ](https://github.com/JasonDayuha/Bike_Share_v2.0_SQLite_Tableau)
+- [1-15-23 Bike Share Analysis by R Programming](https://JasonDayuha.github.io/Bike_Share_v1.0_R_pgrm/R--Bike-Share-ver1-.html),[Project Repository](https://github.com/JasonDayuha/Bike_Share_v1.0_R_pgrm)
+- [4-1-23 Bike Share Analysis by SQLite + Tableau](https://jasondayuha.github.io/Bike_Share_Using_SQLite_Tableau/SQLite---Tableau-Bike-Share.html), [Project Repository ](https://github.com/JasonDayuha/Bike_Share_v2.0_SQLite_Tableau)
 
 
 ---
