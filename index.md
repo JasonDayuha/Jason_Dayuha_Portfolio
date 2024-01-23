@@ -12,7 +12,7 @@
 ---
 [Bike Share Analysis by SQLite + Tableau](https://jasondayuha.github.io/Bike_Share_Using_SQLite_Tableau/SQLite---Tableau-Bike-Share.html),  
 [Project Repository ](https://github.com/JasonDayuha/Bike_Share_v2.0_SQLite_Tableau)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sql_vis.jpg?raw=true"/>
 
 
 ### Project List
