@@ -6,7 +6,7 @@
 
 [3-21-2024 Beyond Survival: Enhancing Numbat Conservation through Data Analysis](https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27/Numba-population.html),
 [Project Repository]([https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27)
-<img src="images/sql_vis.jpg?raw=true"/>
+<img src="images/numbat_vis.jpg?raw=true"/>
 
 ---
 [4-1-2023 Cyclistic: Bike Share Program Analysis with SQLite + Tableau](https://jasondayuha.github.io/Bike_Share_Using_SQLite_Tableau/SQLite---Tableau-Bike-Share.html),  
