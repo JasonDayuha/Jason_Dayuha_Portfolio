@@ -4,7 +4,7 @@
 
 ### Data Analysis Projects
 
-[3-21-2024 Beyond Survival: Enhancing Numbat Conservation through Data Analysis-Tidy Tuesday](https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27/Numba-population.html),
+[3-21-2024 Beyond Survival: Enhancing Numbat Conservation through Data Analysis-Tidy Tuesday (R)](https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27/Numba-population.html),
 [Project Repository]([https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27)
 <img src="images/numbat_vis.jpg?raw=true"/>
 
