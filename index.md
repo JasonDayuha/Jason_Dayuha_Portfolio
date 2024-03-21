@@ -5,7 +5,7 @@
 ### Data Analysis Projects
 
 [3-21-2024 Beyond Survival: Enhancing Numbat Conservation through Data Analysis](https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27/Numba-population.html),
-[Project Repository]([Numba-population.html](https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27)
+[Project Repository]([https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27)
 <img src="images/sql_vis.jpg?raw=true"/>
 
 ---
