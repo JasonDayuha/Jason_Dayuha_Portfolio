@@ -4,7 +4,7 @@
 
 ### Data Analysis Projects
 
-[4-2-2024 US Default Student Loans Analysis 2015 to 2018 Data Analysis - Tidy Tuesday (R)](https://github.com/JasonDayuha/Student_Loan_Pay_TidyTuesday_11_26_2019/blob/main/Student_loan_Analysis.html),
+[4-2-2024 US Default Student Loans Analysis 2015 to 2018 Data Analysis - Tidy Tuesday (R)](https://jasondayuha.github.io/Student_Loan_Pay_TidyTuesday_11_26_2019/Student_loan_Analysis.html),
 [Project Repository](https://github.com/JasonDayuha/Student_Loan_Pay_TidyTuesday_11_26_2019/tree/main)
 <img src="images/numbat_vis.jpg?raw=true"/>
 
