@@ -4,6 +4,11 @@
 
 ### Data Analysis Projects
 
+[4-2-2024 US Default Student Loans Analysis 2015 to 2018 Data Analysis - Tidy Tuesday (R)](https://github.com/JasonDayuha/Student_Loan_Pay_TidyTuesday_11_26_2019/blob/main/Student_loan_Analysis.html),
+[Project Repository](https://github.com/JasonDayuha/Student_Loan_Pay_TidyTuesday_11_26_2019/tree/main)
+<img src="images/numbat_vis.jpg?raw=true"/>
+
+---
 [3-21-2024 Beyond Survival: Enhancing Numbat Conservation through Data Analysis-Tidy Tuesday (R)](https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27/Numba-population.html),
 [Project Repository]([https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27)
 <img src="images/numbat_vis.jpg?raw=true"/>
