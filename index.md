@@ -4,7 +4,7 @@
 
 ### Data Analysis Projects
 
-[7-25-2024 Carbon Emission Trends and Industry Impact- Tidy Tuesday (R)](https://jasondayuha.github.io/Carbon-Emission-Trends-and-Industry-Impact.html)[Project Repository](https://github.com/JasonDayuha/Carbon--Major_Emissions_7-25-24-.git)
+[7-25-2024 Carbon Emission Trends and Industry Impact- Tidy Tuesday (R)](https://jasondayuha.github.io/Carbon-Emission-Trends-and-Industry-Impact.html), [Project Repository](https://github.com/JasonDayuha/Carbon--Major_Emissions_7-25-24-.git)
 <img src="images/carbon imge2.jpg?raw=true"/>
 
 ---
