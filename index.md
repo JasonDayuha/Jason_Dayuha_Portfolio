@@ -34,7 +34,7 @@
 
 ### Project List
 
--[7-25-2024 Carbon Emission project](https://jasondayuha.github.io/Carbon-Emission-Trends-and-Industry-Impact.html)[Project Repository](https://github.com/JasonDayuha/Carbon--Major_Emissions_7-25-24-.git)
+- [7-25-2024 Carbon Emission project](https://jasondayuha.github.io/Carbon-Emission-Trends-and-Industry-Impact.html)[Project Repository](https://github.com/JasonDayuha/Carbon--Major_Emissions_7-25-24-.git)
 - [4-2-2024 US Default Student Loans Analysis](https://jasondayuha.github.io/Student_Loan_Pay_TidyTuesday_11_26_2019/Student_loan_Analysis.html),
 [Project Repository](https://github.com/JasonDayuha/Student_Loan_Pay_TidyTuesday_11_26_2019/tree/main)
 - [3-21-2024 Numbat Conservation Data Analysis](https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27/Numba-population.html),
