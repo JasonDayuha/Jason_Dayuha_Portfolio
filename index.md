@@ -2,7 +2,7 @@
 
 ---
 
-[test date (R)](https://jasondayuha.github.io/Realty-and-Economics/blob/main/Realty-and-Economics.html)), [Project Repository]()
+[test date (R)](https://jasondayuha.github.io/Realty-and-Economics/Realty-and-Economics.html)), [Project Repository]()
 <img src="images/carbon imge2.jpg?raw=true"/>
 
 
