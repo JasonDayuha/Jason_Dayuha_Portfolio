@@ -6,8 +6,6 @@
 [9-24-2024 Understanding the U.S. Economy and Real Estate Market](https://JasonDayuha.github.io/U.S._Economy_and_Real_Estate_Market/Realty-and-Economics.html), [Project Repository](https://github.com/JasonDayuha/U.S._Economy_and_Real_Estate_Market.git)
 <img src="images/economy.png?raw=true"/>
 
-
-https://github.com/JasonDayuha/Jason_Dayuha_Portfolio/blob/master/images/economy.png
 ---
 
 [7-25-2024 Carbon Emission Trends and Industry Impact- Tidy Tuesday (R)](https://jasondayuha.github.io/Carbon--Major_Emissions_7-25-24-/Carbon-Emission.html), [Project Repository](https://github.com/JasonDayuha/Carbon--Major_Emissions_7-25-24-.git)
