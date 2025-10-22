@@ -3,7 +3,7 @@
 ### Data Analysis Project
 ---
 
-[9-24-2024 Understanding the U.S. Economy and Real Estate Market (R)](https://JasonDayuha.github.io/U.S._Economy_and_Real_Estate_Market/Realty-and-Economics.html), [Project Repository](https://github.com/JasonDayuha/U.S._Economy_and_Real_Estate_Market.git)
+[9-24-2024 Understanding the U.S. Economy and Real Estate Market (R)](https://JasonDayuha.github.io/U.S._Economy_and_Real_Estate_Market/Realty-and-Economics.html),[Summery Report](https://JasonDayuha.github.io/U.S._Economy_and_Real_Estate_Market/summery-Cycling.pdf),[Project Repository](https://github.com/JasonDayuha/U.S._Economy_and_Real_Estate_Market.git)
 <img src="images/economy.png?raw=true"/>
 
 ---
