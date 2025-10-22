@@ -3,7 +3,7 @@
 ### Data Analysis Project
 ---
 
-[9-24-2024 Understanding the U.S. Economy and Real Estate Market (R)](https://JasonDayuha.github.io/U.S._Economy_and_Real_Estate_Market/Realty-and-Economics.html),[Summery Report](https://JasonDayuha.github.io/U.S._Economy_and_Real_Estate_Market/summery-Cycling.pdf),[Project Repository](https://github.com/JasonDayuha/U.S._Economy_and_Real_Estate_Market.git)
+[9-24-2024 Understanding the U.S. Economy and Real Estate Market (R)](https://JasonDayuha.github.io/U.S._Economy_and_Real_Estate_Market/Realty-and-Economics.html),[Summery Report](),[Project Repository](https://github.com/JasonDayuha/U.S._Economy_and_Real_Estate_Market.git)
 <img src="images/economy.png?raw=true"/>
 
 ---
@@ -22,7 +22,7 @@
 <img src="images/numbat_vis.jpg?raw=true"/>
 
 ---
-[4-1-2023 Cyclistic: Bike Share Program Analysis with SQLite + Tableau](https://jasondayuha.github.io/Bike_Share_Using_SQLite_Tableau/SQlite_Tableau.html),  
+[4-1-2023 Cyclistic: Bike Share Program Analysis with SQLite + Tableau](https://jasondayuha.github.io/Bike_Share_Using_SQLite_Tableau/SQlite_Tableau.html),[Report Summery PP](https://jasondayuha.github.io/Bike_Share_Using_SQLite_Tableau/summery-Cycling.pdf),
 [Project Repository ](https://github.com/JasonDayuha/Bike_Share_v2.0_SQLite_Tableau)
 <img src="images/sql_vis.jpg?raw=true"/>
 
