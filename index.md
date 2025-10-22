@@ -3,21 +3,21 @@
 ### Data Analysis Project
 ---
 
-[9-24-2024 Understanding the U.S. Economy and Real Estate Market (R)](https://JasonDayuha.github.io/U.S._Economy_and_Real_Estate_Market/Realty-and-Economics.html),[Summery Report](),[Project Repository](https://github.com/JasonDayuha/U.S._Economy_and_Real_Estate_Market.git)
+[9-24-2024 Understanding the U.S. Economy and Real Estate Market (R)](https://JasonDayuha.github.io/U.S._Economy_and_Real_Estate_Market/Realty-and-Economics.html),[Summery Report PP](https://JasonDayuha.github.io/U.S._Economy_and_Real_Estate_Market/Summery-econ_real_est_Market.pdf),[Project Repository](https://github.com/JasonDayuha/U.S._Economy_and_Real_Estate_Market.git)
 <img src="images/economy.png?raw=true"/>
 
 ---
 
-[7-25-2024 Carbon Emission Trends and Industry Impact- Tidy Tuesday (R)](https://jasondayuha.github.io/Carbon--Major_Emissions_7-25-24-/Carbon-Emission.html), [Project Repository](https://github.com/JasonDayuha/Carbon--Major_Emissions_7-25-24-.git)
+[7-25-2024 Carbon Emission Trends and Industry Impact- Tidy Tuesday (R)](https://jasondayuha.github.io/Carbon--Major_Emissions_7-25-24-/Carbon-Emission.html),[Summery Report PP](https://jasondayuha.github.io/Carbon--Major_Emissions_7-25-24-/Summery-Carbon-Emission-Impact.pdf), [Project Repository](https://github.com/JasonDayuha/Carbon--Major_Emissions_7-25-24-.git)
 <img src="images/carbon imge2.jpg?raw=true"/>
 
 ---
-[4-2-2024 US Default Student Loans Analysis 2015 to 2018 Data Analysis - Tidy Tuesday (R)](https://jasondayuha.github.io/Student_Loan_Pay_TidyTuesday_11_26_2019/Student_loan_Analysis.html),
+[4-2-2024 US Default Student Loans Analysis 2015 to 2018 Data Analysis - Tidy Tuesday (R)](https://jasondayuha.github.io/Student_Loan_Pay_TidyTuesday_11_26_2019/Student_loan_Analysis.html),[Summery Report PP](https://jasondayuha.github.io/Student_Loan_Pay_TidyTuesday_11_26_2019/Summery-loans.pdf),
 [Project Repository](https://github.com/JasonDayuha/Student_Loan_Pay_TidyTuesday_11_26_2019/tree/main)
 <img src="images/studentloansweb.png?raw=true"/>
 
 ---
-[3-21-2024 Beyond Survival: Enhancing Numbat Conservation through Data Analysis-Tidy Tuesday (R)](https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27/Numba-population.html),
+[3-21-2024 Beyond Survival: Enhancing Numbat Conservation through Data Analysis-Tidy Tuesday (R)](https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27/Numba-population.html),[Summery Report PP](https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27/Summery-numbat-Conservation.pdf),
 [Project Repository]([https://jasondayuha.github.io/Numbat-Cons_TidyTuesday_2023_3_27)
 <img src="images/numbat_vis.jpg?raw=true"/>
 
